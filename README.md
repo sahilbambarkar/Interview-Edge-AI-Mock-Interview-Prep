@@ -94,4 +94,4 @@ User authentication is handled by Clerk, providing secure and seamless sign-up a
 Styled with Tailwind CSS and Shadcn UI, the app offers a modern and intuitive interface for the best user experience. ✨
 
 ---
-Answer from Perplexity: https://www.perplexity.ai/search/ai-mock-interview-welcome-to-t-e_gmvCSoT_yfCjN74IAe1w?utm_source=copy_output
+
