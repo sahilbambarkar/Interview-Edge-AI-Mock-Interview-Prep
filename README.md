@@ -1,6 +1,6 @@
-🌟 **AI Mock Interview SaaS** 🌟
+🌟 **Interview Edge-AI** 🌟
 
-Welcome to the **AI Mock Interview SaaS**, your personal AI-powered interview coach! 🤖 This web app integrates the cutting-edge Google Gemini AI model API to simulate real interview scenarios, helping you sharpen your skills and get ready for your dream job. 🚀
+Welcome to the **Interview Edge-AI**, your personal AI-powered interview coach! 🤖 This web app integrates the cutting-edge Google Gemini AI model API to simulate real interview scenarios, helping you sharpen your skills and get ready for your dream job. 🚀
 
 🔗 Link: [https://ai-interview-saas-yashdg.vercel.app/](https://ai-interview-saas-yashdg.vercel.app/)
 
