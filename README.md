@@ -1,22 +1,22 @@
-# 🌟 AI Mock Interview 🌟
+🌟 **AI Mock Interview SaaS** 🌟
 
-Welcome to the **AI Mock Interview**, your personal AI-powered interview coach! This web app integrates the cutting-edge Google Gemini AI model API to simulate real interview scenarios, helping you to sharpen your skills and get ready for your dream job.
+Welcome to the **AI Mock Interview SaaS**, your personal AI-powered interview coach! 🤖 This web app integrates the cutting-edge Google Gemini AI model API to simulate real interview scenarios, helping you sharpen your skills and get ready for your dream job. 🚀
 
-Link - https://ai-interview-saas-yashdg.vercel.app/
+🔗 Link: [https://ai-interview-saas-yashdg.vercel.app/](https://ai-interview-saas-yashdg.vercel.app/)
 
 ## 🚀 Features
 
-- **AI-Generated Questions**: Enter your job role, description, and years of experience to get tailored interview questions.
-- **Live Interview Simulation**: Turn on your microphone and webcam to answer questions just like in a real interview.
-- **Speech-to-Text Conversion**: Your responses are converted from speech to text for analysis.
-- **AI Feedback and Rating**: Get instant feedback, a rating out of 5, and sample responses for improvement.
-- **Data Storage**: All information is stored in the database, allowing you to review and track your progress anytime.
+*   **AI-Generated Questions**: 💡 Enter your job role, description, and years of experience to get tailored interview questions.
+*   **Live Interview Simulation**: 🎙️ Turn on your microphone and webcam to answer questions just like in a real interview. 📹
+*   **Speech-to-Text Conversion**: ✍️ Your responses are converted from speech to text for analysis.
+*   **AI Feedback and Rating**: 📈 Get instant feedback, a rating out of 5, and sample responses for improvement. ✅
+*   **Data Storage**: 🗄️ All information is stored in the database, allowing you to review and track your progress anytime.
 
-## 🛠 Tech Stack
+## 🛠️ Tech Stack
 
-- **Frontend**: TypeScript, Next.js 14, Shadcn UI, Tailwind CSS
-- **Authentication**: Clerk
-- **Database**: Neon PostgreSQL, Drizzle ORM
+*   **Frontend**: TypeScript, Next.js 14, Shadcn UI, Tailwind CSS
+*   **Authentication**: Clerk
+*   **Database**: Neon PostgreSQL, Drizzle ORM
 
 ## 🎉 Getting Started
 
@@ -24,25 +24,25 @@ Follow these steps to get the project up and running on your local machine.
 
 ### Prerequisites
 
-- Node.js
-- PostgreSQL
+*   Node.js
+*   PostgreSQL
 
 ### Installation
 
-1. **Clone the repository**
+1.  **Clone the repository**
 
     ```bash
-    git clone https://github.com/yghugardare/AI-Interview-SaaS
-    cd ai-mock-interview-saas
+    git clone https://github.com/yghugardare/Interview-Edge-AI-Mock-Interview-Prep
+    cd Interview-Edge-AI-Mock-Interview-Prep
     ```
 
-2. **Install dependencies**
+2.  **Install dependencies**
 
     ```bash
     npm install
     ```
 
-3. **Set up environment variables**
+3.  **Set up environment variables**
 
     Create a `.env` file in the root directory and add your environment variables.
 
@@ -55,13 +55,13 @@ Follow these steps to get the project up and running on your local machine.
     NEXT_PUBLIC_GEMINI_API_KEY=your-api
     ```
 
-4. **Run database migrations**
+4.  **Run database migrations**
 
     ```bash
     npm run db:push
     ```
 
-5. **Start the development server**
+5.  **Start the development server**
 
     ```bash
     npm run dev
@@ -71,33 +71,27 @@ Follow these steps to get the project up and running on your local machine.
 
 ## 📚 Usage
 
-1. **Sign up / Log in**: Authenticate using Clerk.
-2. **Enter Details**: Provide your job role, description, and years of experience.
-3. **Start Interview**: Answer the AI-generated questions with your microphone and webcam on.
-4. **Get Feedback**: Receive detailed feedback, rating, and sample responses.
-5. **Review**: Access your past interview data anytime to monitor your progress.
+1.  **Sign up / Log in**: 🔑 Authenticate using Clerk.
+2.  **Enter Details**: 📝 Provide your job role, description, and years of experience.
+3.  **Start Interview**: 🚀 Answer the AI-generated questions with your microphone and webcam on.
+4.  **Get Feedback**: 📊 Receive detailed feedback, rating, and sample responses.
+5.  **Review**: 🔍 Access your past interview data anytime to monitor your progress.
 
 ## 🤖 AI Integration
 
-The app uses Google Gemini AI to generate interview questions and provide feedback. The AI analyzes your speech-to-text converted responses to give you constructive feedback and a rating out of 5.
+The app uses Google Gemini AI to generate interview questions and provide feedback. 🌟 The AI analyzes your speech-to-text converted responses to give you constructive feedback and a rating out of 5. 💯
 
-## 🗂 Database
+## 🗂️ Database
 
-The app uses Neon PostgreSQL with Drizzle ORM to store all user data, ensuring efficient and secure access to your interview history.
+The app uses Neon PostgreSQL with Drizzle ORM to store all user data, ensuring efficient and secure access to your interview history. 🔒
 
-## 🛡 Authentication
+## 🛡️ Authentication
 
-User authentication is handled by Clerk, providing secure and seamless sign-up and log-in processes.
+User authentication is handled by Clerk, providing secure and seamless sign-up and log-in processes. ✅
 
 ## 🎨 UI/UX
 
-Styled with Tailwind CSS and Shadcn UI, the app offers a modern and intuitive interface for the best user experience.
-
-
-
-
+Styled with Tailwind CSS and Shadcn UI, the app offers a modern and intuitive interface for the best user experience. ✨
 
 ---
-
-Feel free to explore, use, and contribute to this project. Happy interviewing! 🚀
-
+Answer from Perplexity: https://www.perplexity.ai/search/ai-mock-interview-welcome-to-t-e_gmvCSoT_yfCjN74IAe1w?utm_source=copy_output
