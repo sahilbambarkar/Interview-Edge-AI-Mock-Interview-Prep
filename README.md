@@ -94,9 +94,8 @@ User authentication is handled by Clerk, providing secure and seamless sign-up a
 Styled with Tailwind CSS and Shadcn UI, the app offers a modern and intuitive interface for the best user experience. ✨
 
 
- <h2>
- 📈 Live demo: [https://interview-edge-ai.vercel.app/](https://interview-edge-ai.vercel.app/) 🎉
-</h2>
+## [📈 Live demo: [Interview Edge-AI](https://interview-edge-ai.vercel.app/) 🎉]
+
 
 ---
 
