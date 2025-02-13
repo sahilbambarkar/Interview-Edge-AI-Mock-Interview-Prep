@@ -41,10 +41,11 @@ export default function Page() {
               >
                 <span className="sr-only">Home</span>
                 <Image
-                  src="/Logo4.png"
+                   src="/logo1.png"
                   alt="my responsive logo"
-                  width={50}
-                  height={50}
+                  width={85}
+                  height={85}
+
                 />
               </a>
 
