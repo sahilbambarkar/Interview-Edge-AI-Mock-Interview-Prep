@@ -1,19 +1,22 @@
 import { SignUp } from "@clerk/nextjs";
+import Image from 'next/image'; 
 
 export default function Page() {
   return (
     <section className="bg-white">
       <div className="lg:grid lg:min-h-screen lg:grid-cols-12">
         <section className="relative flex h-32 items-end bg-gray-900 lg:col-span-5 lg:h-full xl:col-span-6">
-          <img
+          <Image
             alt=""
             src="/bg.jpg"
             className="absolute inset-0 h-full w-full object-cover opacity-80"
+            fill 
+            style={{ objectFit: 'cover', opacity: 0.8 }} 
           />
 
           <div className="hidden lg:relative lg:block lg:p-12">
             <a className="block text-white" href="#">
-              <img src="/Logo.png" width={200} height={200} />
+              <Image src="/Logo.png" width={200} height={200} alt="Logo" />
             </a>
 
             <h2 className="mt-6 text-2xl font-bold text-white sm:text-3xl md:text-4xl">
@@ -21,9 +24,10 @@ export default function Page() {
             </h2>
 
             <p className="mt-4 leading-relaxed text-white/90">
-              Improve your career with well-crafted resumes and insightful practice interviews. Utilize our cutting-edge AI technology to revolutionize your job hunt and make an impression on potential employers.
-
-
+              Improve your career with well-crafted resumes and insightful
+              practice interviews. Utilize our cutting-edge AI technology to
+              revolutionize your job hunt and make an impression on potential
+              employers.
             </p>
           </div>
         </section>
@@ -36,7 +40,7 @@ export default function Page() {
                 href="#"
               >
                 <span className="sr-only">Home</span>
-                <img
+                <Image
                   src="/Logo4.png"
                   alt="my responsive logo"
                   width={50}
@@ -49,9 +53,8 @@ export default function Page() {
               </h1>
 
               <p className="mt-4 leading-relaxed text-gray-500 mb-10 text-justify">
-                "Elevate your career with intelligent mock interviews and
-                personalized resume building. Transform your job search and
-                stand out to employers with our advanced AI technology."
+                Elevate your career with intelligent mock interviews and
+                Improve your career with well-crafted resumes and insightful practice interviews. Utilize our cutting-edge AI technology to revolutionize your job hunt and make an impression on potential employers.
               </p>
             </div>
 
