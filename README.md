@@ -2,7 +2,7 @@
 
 Welcome to the **Interview Edge-AI**, your personal AI-powered interview coach! 🤖 This web app integrates the cutting-edge Google Gemini AI model API to simulate real interview scenarios, helping you sharpen your skills and get ready for your dream job. 🚀
 
-🔗 Link: 
+
 
 ## 🚀 Features
 
@@ -94,7 +94,7 @@ User authentication is handled by Clerk, providing secure and seamless sign-up a
 Styled with Tailwind CSS and Shadcn UI, the app offers a modern and intuitive interface for the best user experience. ✨
 
 
-## [📈 Live demo: [Interview Edge-AI](https://interview-edge-ai.vercel.app/) 🎉]
+## 📈 Live demo: [Interview Edge-AI](https://interview-edge-ai.vercel.app/) 🎉
 
 
 ---
